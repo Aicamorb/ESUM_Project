@@ -1,2 +1,2 @@
- 需更改build.gradle中的mysql-connector-java-8.0.16.jar
- 再資料夾/jar中
+ 需更改build.gradle中的mysql-connector-java-8.0.16.jar路徑，檔案在/jar內 /n
+ 使用MySQL資料庫
